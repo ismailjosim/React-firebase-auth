@@ -3,7 +3,7 @@
 export default function App() {
   return (
     <h3>
-      Welcome to react From Replit.
+      Welcome From Replit Phone
     </h3>
   )
 }
