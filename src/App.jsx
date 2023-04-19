@@ -1,9 +1,9 @@
-import './App.css'
+
 
 export default function App() {
   return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
-    </main>
+    <h3>
+      Welcome to react From Replit.
+    </h3>
   )
 }
